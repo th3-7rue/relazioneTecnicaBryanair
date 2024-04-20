@@ -1,13 +1,16 @@
 # Fdb version 4
-["pdflatex"] 1713602296.59596 "c:/Users/Admin/Documents/relazioneTecnica/main.tex" "main.pdf" "main" 1713602297.72044 0
+["pdflatex"] 1713603023.44738 "c:/Users/Admin/Documents/relazioneTecnica/main.tex" "main.pdf" "main" 1713603024.45096 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713346869 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713345874 24236006 a3de941a136c2deb69d4e535efcd9953 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx9.tfm" 1136765053 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr9.tfm" 1136765053 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1247596667 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
@@ -31,11 +34,11 @@
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
-  "c:/Users/Admin/Documents/relazioneTecnica/main.tex" 1713602292 1446 bfbebc786ffe0813e1de1e52bbeed147 ""
+  "c:/Users/Admin/Documents/relazioneTecnica/main.tex" 1713603021 1398 6ff04fb2ea3256e228689807e2377830 ""
   "iislogo.png" 1713602262 64216 335c0a92879747696b34cc4ec53f8297 ""
-  "main.aux" 1713602297 1689 58b6fd6e156393cdd37b49d653b7c4b2 "pdflatex"
-  "main.tex" 1713602292 1446 bfbebc786ffe0813e1de1e52bbeed147 ""
-  "main.toc" 1713602297 1000 c397110fe481a12a94b6a2b0f0a59897 "pdflatex"
+  "main.aux" 1713603024 1593 1d36d6a9fe0b70e16ee2df8e0b25c103 "pdflatex"
+  "main.tex" 1713603021 1398 6ff04fb2ea3256e228689807e2377830 ""
+  "main.toc" 1713603024 945 e34b13f51e38df6a73e2b1b64737ebe0 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
