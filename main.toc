@@ -3,9 +3,9 @@
 \contentsline {section}{\numberline {1}Abstract}{1}{}%
 \contentsline {section}{\numberline {2}Introduzione}{1}{}%
 \contentsline {subsection}{\numberline {2.1}Presentazione del problema e stato dell'arte}{1}{}%
-\contentsline {subsection}{\numberline {2.2}Obbiettivo}{2}{}%
-\contentsline {section}{\numberline {3}Basi teoriche}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Teoria 1}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Obbiettivo}{1}{}%
+\contentsline {section}{\numberline {3}Basi teoriche}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Teoria 1}{1}{}%
 \contentsline {subsection}{\numberline {3.2}Teoria 2}{2}{}%
 \contentsline {section}{\numberline {4}Sviluppo}{2}{}%
 \contentsline {subsection}{\numberline {4.1}Sviluppo 1}{2}{}%
