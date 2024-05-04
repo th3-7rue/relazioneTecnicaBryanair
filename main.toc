@@ -2,15 +2,17 @@
 \babel@toc {italian}{}\relax 
 \contentsline {section}{\numberline {1}Introduzione}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Presentazione del problema e stato dell'arte}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Obbiettivo}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Obiettivo}{1}{}%
 \contentsline {section}{\numberline {2}Basi teoriche}{1}{}%
-\contentsline {subsection}{\numberline {2.1}Teoria 1}{1}{}%
-\contentsline {subsection}{\numberline {2.2}Teoria 2}{2}{}%
-\contentsline {section}{\numberline {3}Sviluppo}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Sviluppo 1}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Sviluppo 2}{2}{}%
-\contentsline {section}{\numberline {4}Gestione}{2}{}%
-\contentsline {subsection}{\numberline {4.1}Gestione 1}{2}{}%
-\contentsline {subsection}{\numberline {4.2}Gestione 2}{2}{}%
-\contentsline {section}{\numberline {5}Conclusioni}{2}{}%
-\contentsline {section}{\numberline {6}Bibliografia e sitografia}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Architettura MVC}{1}{}%
+\contentsline {subsection}{\numberline {2.2}DB relazionale}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Autenticazione e autorizzazione}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Validazione dei dati e gestione degli errori}{2}{}%
+\contentsline {section}{\numberline {3}Gestione}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Analisi dei requisiti}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Progettazione}{2}{}%
+\contentsline {subsection}{\numberline {3.3}Sviluppo}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Test e validazione}{3}{}%
+\contentsline {subsection}{\numberline {3.5}Deploy e manutenzione}{3}{}%
+\contentsline {section}{\numberline {4}Conclusioni}{3}{}%
+\contentsline {section}{\numberline {5}Bibliografia e sitografia}{3}{}%
