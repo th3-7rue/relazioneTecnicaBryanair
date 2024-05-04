@@ -1,18 +1,18 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {section}{\numberline {1}Introduzione}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Presentazione del problema e stato dell'arte}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Obiettivo}{1}{}%
-\contentsline {section}{\numberline {2}Basi teoriche}{1}{}%
-\contentsline {subsection}{\numberline {2.1}Architettura MVC}{1}{}%
-\contentsline {subsection}{\numberline {2.2}DB relazionale}{2}{}%
-\contentsline {subsection}{\numberline {2.3}Autenticazione e autorizzazione}{2}{}%
-\contentsline {subsection}{\numberline {2.4}Validazione dei dati e gestione degli errori}{2}{}%
-\contentsline {section}{\numberline {3}Gestione}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Analisi dei requisiti}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Progettazione}{2}{}%
-\contentsline {subsection}{\numberline {3.3}Sviluppo}{2}{}%
-\contentsline {subsection}{\numberline {3.4}Test e validazione}{3}{}%
-\contentsline {subsection}{\numberline {3.5}Deploy e manutenzione}{3}{}%
-\contentsline {section}{\numberline {4}Conclusioni}{3}{}%
-\contentsline {section}{\numberline {5}Bibliografia e sitografia}{3}{}%
+\contentsline {section}{\numberline {1}Introduzione}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Presentazione del problema e stato dell'arte}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Obiettivo}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Basi teoriche}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Architettura MVC}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}DB relazionale}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Autenticazione e autorizzazione}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Validazione dei dati e gestione degli errori}{2}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Gestione}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Analisi dei requisiti}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Progettazione}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Sviluppo}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Test e validazione}{3}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Deploy e manutenzione}{3}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Conclusioni}{3}{section.4}%
+\contentsline {section}{\numberline {5}Bibliografia e sitografia}{4}{section.5}%
