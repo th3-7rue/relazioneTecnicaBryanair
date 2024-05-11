@@ -1,6 +1,6 @@
-PWD c:\Users\Admin\Documents\relazioneTecnica
+PWD c:\xampp\htdocs\relazioneTecnicaBryanair
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Admin\Documents\relazioneTecnica\main.tex
+INPUT c:\xampp\htdocs\relazioneTecnicaBryanair\main.tex
 OUTPUT main.log
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
