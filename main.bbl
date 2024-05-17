@@ -3,7 +3,25 @@
 \bibitem{alpine}
 Alpine.js.
 
+\bibitem{laravel}
+Laravel.
+
+\bibitem{livewire}
+Livewire.
+
+\bibitem{mysql}
+Mysql.
+
+\bibitem{php}
+Php.
+
+\bibitem{phpmyadmin}
+Phpmyadmin.
+
 \bibitem{tailwind}
 Tailwind css.
+
+\bibitem{tall}
+Tall stack.
 
 \end{thebibliography}

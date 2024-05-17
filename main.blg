@@ -5,47 +5,53 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Database file #1: biblio.bib
+Warning--to sort, need author or key in tall
 Warning--to sort, need author or key in tailwind
 Warning--to sort, need author or key in alpine
-You've used 2 entries,
+Warning--to sort, need author or key in laravel
+Warning--to sort, need author or key in livewire
+Warning--to sort, need author or key in php
+Warning--to sort, need author or key in mysql
+Warning--to sort, need author or key in phpmyadmin
+You've used 8 entries,
             2118 wiz_defined-function locations,
-            501 strings with 4022 characters,
-and the built_in function-call counts, 316 in all, are:
-= -- 24
-> -- 2
+            513 strings with 4102 characters,
+and the built_in function-call counts, 1204 in all, are:
+= -- 96
+> -- 8
 < -- 0
-+ -- 2
++ -- 8
 - -- 0
-* -- 12
-:= -- 37
-add.period$ -- 2
-call.type$ -- 2
-change.case$ -- 6
+* -- 42
+:= -- 121
+add.period$ -- 8
+call.type$ -- 8
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 14
-empty$ -- 47
+cite$ -- 16
+duplicate$ -- 56
+empty$ -- 185
 format.name$ -- 0
-if$ -- 75
+if$ -- 297
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 9
+newline$ -- 27
 num.names$ -- 0
-pop$ -- 16
+pop$ -- 64
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 16
 quote$ -- 0
-skip$ -- 20
+skip$ -- 80
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 40
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 2
+type$ -- 32
+warning$ -- 8
 while$ -- 0
-width$ -- 3
-write$ -- 12
-(There were 2 warnings)
+width$ -- 9
+write$ -- 42
+(There were 8 warnings)
