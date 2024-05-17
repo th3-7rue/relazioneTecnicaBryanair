@@ -2,26 +2,38 @@
 
 \bibitem{alpine}
 Alpine.js.
+\newblock \url{https://alpinejs.dev/}.
 
 \bibitem{laravel}
 Laravel.
+\newblock \url{https://laravel.com/}.
 
 \bibitem{livewire}
 Livewire.
+\newblock \url{https://livewire.laravel.com/}.
 
 \bibitem{mysql}
 Mysql.
+\newblock \url{https://www.mysql.com/}.
 
 \bibitem{php}
 Php.
+\newblock \url{https://www.php.net/}.
 
 \bibitem{phpmyadmin}
 Phpmyadmin.
+\newblock \url{https://www.phpmyadmin.net/}.
+
+\bibitem{ryanair}
+Ryanair.
+\newblock \url{https://www.ryanair.com/}.
 
 \bibitem{tailwind}
 Tailwind css.
+\newblock \url{https://tailwindcss.com/}.
 
 \bibitem{tall}
 Tall stack.
+\newblock \url{https://tallstack.dev/}.
 
 \end{thebibliography}
