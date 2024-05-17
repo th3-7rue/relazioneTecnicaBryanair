@@ -1,3 +1,9 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{alpine}
+Alpine.js.
+
+\bibitem{tailwind}
+Tailwind css.
 
 \end{thebibliography}
